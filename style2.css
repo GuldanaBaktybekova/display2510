@@ -8,3 +8,7 @@ ul {
   margin: 0;
   padding: 0;
 }
+nav ul a {
+  display: inline-block;
+ padding: 10px;
+}
